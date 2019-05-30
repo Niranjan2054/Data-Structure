@@ -9,7 +9,8 @@
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/gaussele.c" target="_blank">Gauss Elimination</a><br>
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/gassjord.c" target="_blank">Gauss Jordan</a><br>
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/eigen.c" target="_blank">Eigen Vector and Eigen Value Calculation</a><br>
-<a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/langrange.c" target="_blank">Langrange Interpolation Method</a>
+<a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/langrange.c" target="_blank">Langrange Interpolation Method</a><br>
+<a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/linearcurvefitting.c" target="_blank">Linear Curve Fitting</a>
 
 # Recurrence Relation
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/fibonnaci.c" target="_blank">Fibonacci Series Using Reurrence Relation</a>
