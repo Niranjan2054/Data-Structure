@@ -1,3 +1,4 @@
+//Implementation of Stack Using Linked List
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
@@ -10,9 +11,6 @@ void getnode(int data){
 	pnew = (struct node*)malloc(sizeof(struct node));
 	pnew->data=data;
 	pnew->next = NULL;
-}
-void freenode(struct node *ptr){
-	free(ptr);
 }
 void insert(int data){
 	getnode(data);
@@ -50,9 +48,9 @@ void display(){
 int main(){
 	int a,pos;
 	while(1){
-		printf("\n\n\tLink List Operation");
-		printf("\n\t1. Insert into queue");
-		printf("\n\t2. Delete from queue");
+		printf("\n\n\tStack Operation");
+		printf("\n\t1. Insert into Stack");
+		printf("\n\t2. Delete from Stack");
 		printf("\n\t3. Display");
 		printf("\n\t4. Exit");
 		printf("\n\tChoose Option...: ");
