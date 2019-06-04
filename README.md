@@ -5,7 +5,7 @@
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/FDTC.C" target="_blank">Tail Vary Head Fixed Queue</a><br>
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/FRC.C" target="_blank">Both Head and Tail Vary Queue</a><br>
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/CIRLILS.C" target="_blank">Implementation of Circular Link List</a><br>
-<a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/INTOPOST.C" target="_blank">Implementation of Circular Link List</a><br>
+<a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/INTOPOST.C" target="_blank">Conversion from Prefix to PostFix</a><br>
 
 
 # Numerical Method
