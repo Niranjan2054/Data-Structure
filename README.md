@@ -16,6 +16,7 @@
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/langrange.c" target="_blank">Langrange Interpolation Method</a><br>
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/linearcurvefitting.c" target="_blank">Linear Curve Fitting</a><br>
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/ABXCURVE.C" target="_blank">ab^x Curve Fitting</a>
+<a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/curvefit3.c" target="_blank">Saturation Curve Fitting</a>
 
 # Recurrence Relation
 <a href="https://github.com/Niranjan2054/Data-Structure-and-NM/blob/master/fibonnaci.c" target="_blank">Fibonacci Series Using Reurrence Relation</a>
